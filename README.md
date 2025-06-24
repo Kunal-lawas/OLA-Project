@@ -1,3 +1,4 @@
+OLA PROJECT:
 This project consist of 5 pages , use ctrl + click to switch the page and this project analyzes Ola cab booking data using Power BI and SQL. It provides insights into ride trends, city-wise performance, customer behavior, and revenue patterns. SQL was used for data extraction and transformation, while Power BI enabled dynamic visualizations, dashboards, and to support strategic decision-making and operational efficiency.
 1 page overall
 2 page vehicle type
